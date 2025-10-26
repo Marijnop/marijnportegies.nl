@@ -1,0 +1,28 @@
+---
+page-layout: article
+toc: false
+---
+
+
+## Principles
+
+- *Be precise.* Prefer mechanisms to slogans.  
+- *Be fair.* Represent opposing views in their strongest form.  
+- *Be useful.* Write with the reader’s future in mind.  
+- *Be revisable.* Admit error quickly; reward evidence.
+
+## Background
+
+I’m currently based in Rotterdam, the Netherlands, studying and working or seeking to work at the intersection of **econometrics, policy, data and philosophy** in a changing world. 
+
+## Contact
+
+If you have feedback, ideas, or want to collaborate, please reach out:
+
+📬 **contact@marijnportegies.nl**  
+🔗 [LinkedIn](https://www.linkedin.com/in/marijn-portegies-533349217/) · [GitHub](-)
+
+> *I read all messages, though replies may take time. Constructive criticism and thoughtful disagreement are especially welcome.*
+
+---
+

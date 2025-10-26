@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marijn Portegies"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Essays
+        href: essays.qmd
+      - text: Stories
+        href: stories.qmd
+      - text: About
+        href: about.qmd
+  page-footer:
+    center: |
+      © 2025 Marijn Portegies · [Contact](about.qmd#contact)
+
+format:
+  html:
+    theme: default           # keep neutral theme base
+    css: styles.scss         # your book-like styling
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,22 @@
+---
+page-layout: article
+toc: false
+---
+
+# A Letter to the Reader {.text-center .mb-4}
+
+::: {.lede}
+Dear reader,
+:::
+
+This site is still taking shape.
+
+In time, it will hold essays on economics, philosophy, politics, and culture, as well as small data-scientific plug-ins and experiments.
+
+It exists mostly for myself — a way to keep writing, researching, and staying curious.
+
+For now, it contains only my contact information. The rest will grow in its own time.
+
+<div class="signature">
+— Marijn
+</div>
